@@ -1,7 +1,6 @@
 - 👋 Hi, I’m oyinlola olawale
-- 👀 I’m interested in devops and cloud architecture
-- 🌱 I’m currently learning  devops as well as aws||azure
-- 💞️ I’m looking to collaborate on projects that would assist with my goal
+- 👀 I’m a devops engineer with a keen interest in cloud architecture
+- 💞️ I’m looking to collaborate on challenging projects.
 - 📫 rustyoyinlola@gmail.com or linkedin oyinlola olawale
 
 <!---
